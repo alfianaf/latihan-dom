@@ -28,7 +28,7 @@ for (var i = 0; i < 10; i++) {
 
 //   photos.forEach(element => {
       output += `
-      <div class="col-md-4">
+      <div class="col-md-3">
       <div class="card" style="width: 18rem;">
             <img src="${photos[i].thumbnailUrl}" class="card-img-top" alt="...">
             <div class="card-body">
